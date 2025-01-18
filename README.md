@@ -1,3 +1,4 @@
+git clone https://github.com/darshhv/Fraud-Detection-System
 # Fraud Detection System
 
 A machine learning project that detects fraud in financial transactions using Random Forest and XGBoost models.
@@ -17,4 +18,6 @@ A machine learning project that detects fraud in financial transactions using Ra
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FRAUD-DETECTION-SYSTEM.git
+   git clone [https://github.com/darshhv/Fraud-Detection-System]
+python fraud_detection.py
+   
