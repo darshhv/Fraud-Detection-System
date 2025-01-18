@@ -1,0 +1,6 @@
+transaction_id,amount,merchant,fraudulent
+1,1000,Merchant_A,0
+2,500,Merchant_B,1
+3,1500,Merchant_A,0
+4,2000,Merchant_C,1
+5,1200,Merchant_B,0
