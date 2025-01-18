@@ -44,7 +44,7 @@ Clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/FRAUD-DETECTION-SYSTEM.git
+git clone https://github.com/darshhv/Fraud-Detection-System.git
 Navigate to the project folder:
 
 bash
