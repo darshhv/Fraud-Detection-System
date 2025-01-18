@@ -1,4 +1,6 @@
 FRAUD-DETECTION-SYSTEM
+
+
 Overview
 The FRAUD-DETECTION-SYSTEM is a machine learning-based project that leverages advanced data processing and modeling techniques to detect fraudulent activities in financial transactions. The system utilizes Pandas for data preprocessing, Random Forest and XGBoost models for fraud detection, and scikit-learn for model evaluation, achieving high detection accuracy and low false positive rates.
 
